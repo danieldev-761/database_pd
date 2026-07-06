@@ -1,0 +1,25 @@
+Entidades:
+
+Supplier: id, name, CityId
+
+Cities: id, name
+
+Products: id, ProductName, CategoryId, UnitPrice
+
+Purchases: PurchaseOrder, PurchaseDate, Supplier_Id, Warehouse_Id, Total_Price
+
+
+Purchases_Products: PurchaseOrder, ProductId, quantity, PurchasePrice, subtotal
+
+Suppliers: id, SupplierName, CityId
+
+Warehouse: id, name, CityId
+
+Category: id, name
+
+
+Movement: id, MovementDate, TypeId, WarehouseId
+
+movement_type: id, name
+
+

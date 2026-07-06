@@ -12,3 +12,9 @@ El proyecto deberá incluir un README.md en inglés con:
 • Developer information:
 o Full name.
 o Clan.
+
+
+## Author
+
+Daniel Echeverría - Clan Garabato
+
